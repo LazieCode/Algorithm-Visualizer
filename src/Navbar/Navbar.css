@@ -1,0 +1,8 @@
+.navbar-content{
+    height: 10vh;
+    color: white;
+    text-align: center;
+    padding: 2rem 0;
+    font-size: 50px;
+    overflow: hidden;
+}

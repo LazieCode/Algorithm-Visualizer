@@ -1,0 +1,21 @@
+
+.main-container{
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+}
+
+.data-bar{
+    width: 5px;
+    background-color: blue;
+    margin: 0px 1.5px;
+    margin-bottom: 0;
+
+}
+
+.display-btn{
+    cursor: pointer;
+    padding: 5px;
+    border-radius: 10px;
+}
+
